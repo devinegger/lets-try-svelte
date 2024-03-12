@@ -13,7 +13,7 @@
       <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
     </a>
   </div>
-  <h1>Vite + Svelte</h1>
+  <h1>Lightning Bolt, and a... chain kinda.. S thing..!</h1>
   <p>is this what we're trying to do?!?</p>
 
   <div class="card">
